@@ -7,17 +7,11 @@
 	![损伤](https://github.com/lainiinc/accident/blob/master/1.jpg)
 
 3. ### 过程
-	<video id="video" controls="" preload="none">
-      <source id="mp4" src="https://github.com/lainiinc/accident/blob/master/1.mp4" type="video/mp4">
-    </video>
+	![过程](https://github.com/lainiinc/accident/blob/master/1.gif)
 	<br>
-	<video id="video" controls="" preload="none">
-      <source id="mp4" src="https://github.com/lainiinc/accident/blob/master/2.mp4" type="video/mp4">
-    </video>
+	![过程](https://github.com/lainiinc/accident/blob/master/2.gif)
 	<br>
-	<video id="video" controls="" preload="none">
-      <source id="mp4" src="https://github.com/lainiinc/accident/blob/master/3.mp4" type="video/mp4">
-    </video>
+	![过程](https://github.com/lainiinc/accident/blob/master/3.gif)
 
 4. ### 修理费用
 	刚刚问了附件的汽修厂，由于底漆被磨出来了，会稍微多一些，大约220，如果有异议可以去您指定的汽修厂<br>
